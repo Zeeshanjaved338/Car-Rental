@@ -101,7 +101,7 @@ npm start
 
 **Zeeshan Javed**
 📍 Software Developer
-🔗 GitHub: [https://github.com/Zeeshanjaved368](https://github.com/Zeeshanjaved368)
+🔗 GitHub: [https://github.com/Zeeshanjaved368](https://github.com/Zeeshanjaved368/Car-Rental)
 
 ---
 
